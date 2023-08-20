@@ -127,7 +127,7 @@ sections:
   content:
     subtitle: ""
     text: '{{< gallery album="demo" >}}'
-    title: Gallery
+    title: Галерея
   design:
     columns: "1"
 - block: collection
