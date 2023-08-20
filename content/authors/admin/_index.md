@@ -1,29 +1,29 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: Мои исследовательские интересы включают широкий список тем, связанных с гражданской и этнической идентичностью, межэтническими отношениями, восприятием этнических образов, психосемантикой.
   matter.
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+    institution: Алтайский государственный университет
+    year: 2021
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2008
-email: ""
-first_name: Alice
+email: daria.omelchenko@mail.ru
+first_name: Дарья
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Wu
+- Анализ данных в R
+- Психосемантические исследования
+- Социология риска
+last_name: Омельченко
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Алтайский государственный университет
+  url: https://www.asu.ru/
+role: К.с.н., доцент кафедры социальной и молодежной политики
 social:
 - icon: envelope
   icon_pack: fas
@@ -49,8 +49,8 @@ social:
 status:
   icon: ☕️
 superuser: true
-title: Alice Wu 吳恩達
+title: Дарья Омельченко
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Дарья Омельченко -- доцент Института гуманитарных наук Алтайского государственного университета. Ее исследовательские интересы включают анализ социальной безопасности и риска в контексте изучения миграций, межэтнических отношений, функционирования социальных идентичностей, восприятия этнических образов. Педагогическая деятельность включает обучение анализу данных и использованию возможностей R для анализа результатов социологических исследований.
 {style="text-align: justify;"}
