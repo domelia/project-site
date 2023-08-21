@@ -1,0 +1,25 @@
+---
+title: New post
+author: Дарья Омельченко
+date: '2023-08-21'
+slug: new-post
+categories:
+  - Demo
+  - R
+tags:
+  - Academic
+  - Deep Learning
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2023-08-21T13:57:57+07:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+## Заголовок
+
+Сам пост.

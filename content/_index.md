@@ -6,6 +6,28 @@ sections:
     title: Биография
     username: admin
   id: about
+- block: collection
+  content:
+    count: 5
+    filters:
+      author: ""
+      category: ""
+      exclude_featured: false
+      exclude_future: false
+      exclude_past: false
+      folders:
+      - cases
+      publication_type: ""
+      tag: ""
+    offset: 0
+    order: desc
+    subtitle: ""
+    text: ""
+    title: Наши кейсы
+  design:
+    columns: "2"
+    view: compact
+  id: cases
 - block: features
   content:
     items:
